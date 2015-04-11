@@ -3,15 +3,29 @@ Created Date: 11/04/2015
 AUTHOR      : Dinni Hayyati
 
 DESCRIPTION
-
+The projects read two files:
+1. queries.1K.txt > which contains a list of locations
+2. tweets.3K.txt > which contains a list of tweets
+This apps wants you to put certain terms or location and it will search for you. 
+In return, it will gives you lists of approximate match based on agrep and soundex algorithm.
 
 INSTALLATION
 
 HOW-TO
+Press number 1 when the app runs, if you wish to put a term and let the app searchs for you.
+Otherwise, it can give you a list of location to be search. 
+Try different number to explore!
 
-
-
+OUTPUT
+What it will provide as output:
+1. 5 records that will approximately match your term, according to agrep
+2. Time required to process agrep algorithm
+3. 5 records that will approximately match your term, according to soundex
+4. Time required to process soundex algorithm 
 
 ALGORITHM
+AGREP
+
+
 
 
