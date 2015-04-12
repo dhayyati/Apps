@@ -13,9 +13,17 @@ In return, it will gives you lists of approximate match based on agrep and sound
 
 INSTALLATION
 
-HOW-TO
-Press number 1 when the app runs, if you wish to put a term and let the app searchs for you.
-Otherwise, it can give you a list of location to be search. 
+HOW-TO 
+Search for A Location / Term
+   Press number 1 when the app runs, if you wish to put a term and let the app searchs for you.
+   Type the location of terms you're looking for. e.g. Allen Trail
+   Enter
+   
+   
+Otherwise, it can give you a list of location to be search, by pressing 3
+
+Pressing 2 will let the system to search first  10 locations in the location list
+
 Try different number to explore!
 
 Press number 4 to quit the syste (SystemExit)
