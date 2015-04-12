@@ -2,6 +2,8 @@ Project     : APPROXMATCHER
 Created Date: 11/04/2015
 AUTHOR      : Dinni Hayyati
 
+LANGUAGE: PYTHON
+
 DESCRIPTION
 The projects read two files:
 1. queries.1K.txt > which contains a list of locations
@@ -15,6 +17,8 @@ HOW-TO
 Press number 1 when the app runs, if you wish to put a term and let the app searchs for you.
 Otherwise, it can give you a list of location to be search. 
 Try different number to explore!
+
+Press number 4 to quit the syste (SystemExit)
 
 OUTPUT
 What it will provide as output:
